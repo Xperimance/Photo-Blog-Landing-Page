@@ -9,9 +9,8 @@ A simple landing page for a photo blog. This was the first coding project that I
 - CSS
 - Bootstrap 5.3
 
-## Images
-![Header](<Screenshot 2023-08-03 182304.png>)
-![Footer](<Screenshot 2023-08-03 182356.png>)
+## Image
+![Screenshot 2023-08-03 182304](https://github.com/Xperimance/Photo-Blog-Landing-Page/assets/137794719/c1b7f844-913f-4940-a0ad-8fc0c4d4febf)
 
 ## License
 
