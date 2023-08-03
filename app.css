@@ -1,0 +1,33 @@
+/* body {
+    background-color: #E4E4E4;
+    display: flexbox;
+} */
+
+img {
+    width: 30%;
+    margin: calc(10%/6);
+    flex-wrap: wrap;
+}
+
+.footer {
+    font-family: 'Josefin Sans', sans-serif;
+    border-top: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    color: black;
+    position: bottom;
+    text-align: center;
+    padding: 1em 0;
+}
+
+nav {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 0.9em;
+    text-transform: uppercase;
+}
+
+@media (max-width: 768px) {
+    img {
+        width: 100%;
+    }
+}
